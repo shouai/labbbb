@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 柳彬
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Liu Bin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bin
+last_name: Liu
 
 # Status emoji
 status:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+我是上海海洋大学海洋科学与生态环境学院的副教授、博士、硕士生导师，研究方向聚焦于人工智能海洋学、遥感图像智能信息提取及深度学习。主要研究领域人工智能海洋学、遥感图像智能信息提取、深度学习，具体而言，包括但不仅限于：(1) 基于深度学习的海洋遥感图像智能分析，应用于海岸带水淹监测与预警、潮间带环境监测以及船舶探测和识别。(2) 基于深度学习的渔场预报、渔业资源预测及渔汛预报。(3) 基于国产自主边缘计算芯片的人工智能模型移植、推理优化和迁移学习。目前主持多项科研项目，包括国家自然科学基金等，发表SCI论文21篇，出版专著及章节5部。
